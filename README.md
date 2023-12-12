@@ -1,4 +1,19 @@
-### README: Using the StableRep Project in Google Colab
+### Using the CLIP file in Google Colab
+
+#### Environment Setup
+1. **Install Libraries**: Run the cells at the beginning to install the necessary libraries.
+2. **Install CLIP**: Run the cells at the beginning to also install CLIP via GitHub.
+
+#### Project Directory
+- Pick one dataset to download from the 'Loading in Different Datasets' section. If the dataset comes from torchvision.datasets, only run that one cell. If not, then you must download the dataset and save it to your google drive. After, you have to mount your Google Drive and extract the relevant folders containing the test images.
+
+#### Generating Text Prompts
+- After creating your dataset, obtain the names of the different classes in your dataset. Create a new array 'classes' that contains all the different class names and run and get the text prompts outputted from the 'get_text_prompts' function with 'classes' as an input. 
+
+#### Running Inference & Plotting
+- Once we have the text prompts and testloader, run the last two cells of the file for inference and plotting.
+
+### Using the StableRep Project in Google Colab
 
 #### Environment Setup
 1. **Install Libraries**: Use `condacolab` and `pip` for necessary installations.
