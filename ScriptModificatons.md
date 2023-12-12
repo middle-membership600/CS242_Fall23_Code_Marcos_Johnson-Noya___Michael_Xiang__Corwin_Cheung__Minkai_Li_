@@ -1,6 +1,4 @@
-# CS242_Fall23_Code_Marcos_Johnson-Noya___Michael_Xiang__Corwin_Cheung__Minkai_Li_
-
-### Readme: Script Modifications
+# Script Modifications
 
 #### Summary
 This document describes the key modifications made to the original Python script for the "Linear Probe Evaluation" project. The changes aim to enhance functionality, flexibility, and user experience.
