@@ -36,6 +36,6 @@
 - Post-training, visualize class-wise model accuracies using a bar plot.
 
 ### Important Notes
-- Click [here]([url](https://github.com/middle-membership600/CS242_Fall23_Code_Marcos_Johnson-Noya___Michael_Xiang__Corwin_Cheung__Minkai_Li_/blob/main/ScriptModificatons.md)) to see the details of how we modified `main_linear.py`.
+- Click [here]((https://github.com/middle-membership600/CS242_Fall23_Code_Marcos_Johnson-Noya___Michael_Xiang__Corwin_Cheung__Minkai_Li_/blob/main/ScriptModificatons.md)) to see the details of how we modified `main_linear.py`.
 - Ensure data is structured correctly in `train` and `val` folders.
 - Check console outputs for any error messages during script execution.
